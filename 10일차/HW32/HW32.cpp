@@ -5,6 +5,7 @@
 //  Created by 이동헌 on 2020/01/12.
 //  Copyright © 2020 이동헌. All rights reserved.
 //
+
 #include <stdio.h>
 #include <math.h>
 
