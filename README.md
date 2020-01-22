@@ -1,2 +1,5 @@
-# -
-C언어와 함께하는 킹혜경 과제집
+# 킹혜경과 함께하느 C언어 과제집
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-C-EFC050?style=flat"/>
+    <img src="https://img.shields.io/badge/Class-정혜경-EFC050?style=flat"/>
